@@ -14,7 +14,7 @@
 
 body {
     font-family: var(--primary-font);
-    font-color: var(--primary-color);
+    color: var(--primary-color);
 }
 
 /* Footer Styles */
@@ -29,6 +29,7 @@ body {
     font-weight: 600;
     color: #333;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 .footer-text {
@@ -58,6 +59,7 @@ body {
     margin: 0;
     padding: 0;
     list-style: none;
+    justify-content: center;
 }
 
 .footer-links a {
