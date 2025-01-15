@@ -22,6 +22,10 @@ body {
     border: #37379D;
 }
 
+.accordion-header {
+    background-color: var(--primary-color);
+}
+
 /* Footer Styles */
 
 .footer {
