@@ -45,17 +45,18 @@
                         <a class="nav-link" href="index.html#about-us">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#resources">Resources</a>
+                        <a class="nav-link" href="resources.html">Resources</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#issues">Issues</a>
+                        <a class="nav-link" href="issues.html">Issues</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Research</a>
+                        <a class="nav-link" href="research.html">Research</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
-                    </li>
+                    <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-primary sharp-corners custom-button" data-bs-toggle="modal"
+                        data-bs-target="#exampleModal">
+                        Contact
                 </ul>
             </div>
         </div>
@@ -168,11 +169,11 @@
                 <div class="col-md-6 text-md-end">
                     <div class="footer-brand">Quick Links</div>
                     <ul class="footer-links">
-                        <li><a href="#index.html#about-us">About Us</a></li>
+                        <li><a href="index.html#about-us">About Us</a></li>
                         <li><a href="#resources.html">Resources</a></li>
                         <li><a href="#issues.html">Issues</a></li>
                         <li><a href="#research.html">Research</a></li>
-                        <li><a href="#contact.html">Contact Us</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Contact Us</a></li>
                     </ul>
 
                 </div>
@@ -184,6 +185,39 @@
         </div>
     </footer>
 
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content sharp-corners">
+                <div class="modal-header ">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Get In Contact</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Join our community and take the first step towards better mental health. Sign up with your email
+                        to receive exclusive tips, resources, and support tailored to your journey. Let's prioritize
+                        your well-being together!</p>
+                    <form class="row g-3">
+                        <div class="col-lg-6">
+                            <label for="inputName" class="form-label">Name</label>
+                            <input type="text" class="form-control" id="inputName">
+                        </div>
+                        <div class="col-lg-6">
+                            <label for="inputEmail" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="inputEmail">
+                        </div>
+                        <div class="col-12 mb-4">
+                            <button type="submit" class="btn btn-primary custom-button">
+                                Sign up!
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
 
 
     <!-- Bootstrap JS -->

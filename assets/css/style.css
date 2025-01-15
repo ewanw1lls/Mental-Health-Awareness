@@ -17,6 +17,11 @@ body {
     color: var(--primary-color);
 }
 
+.custom-button {
+    background-color: #2C3453;
+    border: #37379D;
+}
+
 /* Footer Styles */
 
 .footer {
