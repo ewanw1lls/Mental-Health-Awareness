@@ -11,13 +11,15 @@ The purpose of this website is to raise awareness about men’s mental health, b
 
 ### Talk about user stories and choice to use the Learning Objectives just as a template and acknowledge the importance of using real stories in a real scenario
 
+For my project board, I chose to use the Learning Objectives stipulated in the LMS to guide my project. Although this approach is not centered around design for a client, it clearly lays out the requirements for this assignment. This method replicated the planning process typically used for user stories without the need to fabricate them. It's important to note that I used the same format you would expect from user stories in order to replicate the planning process.
+
 ## Design Choices:
 
 ### Wireframes:
 
 ### Colour Palette:
 
-The color palette for the website was designed to convey professionalism, trust, and calmness, aligning with the sensitive subject of men’s mental health. Although two highlight colors were defined but not utilized, including them demonstrates good design practice by providing flexibility for future updates or design tweaks.
+The color palette for the website was designed to convey professionalism, trust, and calmness, aligning with the sensitive subject of men’s mental health. Although two highlight colors were defined but not utilised, including them demonstrates good design practice by providing flexibility for future updates or design tweaks.
 
 Primary Color: #2C3453 (Dark Blue)
 
@@ -29,8 +31,6 @@ Highlight Color: #652D81 (Purple)
 
 While not used in the current design, this rich purple was defined as a potential accent for call-to-action buttons or important sections. Purple is often associated with creativity and introspection, making it a fitting choice for mental health themes.
 Highlight Color Light: #6097F5 (Light Blue)
-
-This soft and calming blue was also unused but could serve as a secondary highlight, particularly for hover effects or subtle background gradients.
 
 ### Font:
 
@@ -52,7 +52,7 @@ The favicon was generated using favicon.io.
 
 ### WC3 Validation (html & CSS)
 
-add when finished
+ XxXXXXXX   add when finished
 
 ## Github:
 
@@ -77,6 +77,6 @@ Some bug fixes and small fixes still in progress :
 - [ ] footer alignment is current md-start
 - [ ] card "learn more" alignment in issues
 - [ ] image res on home page
-- [ ] contact modal allows any info
+- [x] contact modal allows any info
 
 ### Final Thoughts/Reflection:
