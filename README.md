@@ -15,7 +15,9 @@ For my project board, I chose to use the Learning Objectives stipulated in the L
 
 ## Design Choices:
 
-
+talk about choosing to do multiple page blah blah blah
+soft comforting style yet serious blah blah
+minimalist over exsentiric to offer a serious and clean look
 
 ### Wireframes:
 
