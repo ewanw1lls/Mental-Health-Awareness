@@ -31,6 +31,12 @@ body {
     background-color: var(--primary-color);
 }
 
+/* Accordion Styles */ 
+
+ul li {
+    margin-bottom: 1rem; /* Adjust spacing as needed */
+}
+
 /* Issues card Styles */
  
 .card-body {

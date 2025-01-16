@@ -52,7 +52,7 @@ The favicon was generated using favicon.io.
 
 ### WC3 Validation (html & CSS)
 
- XxXXXXXX   add when finished
+ XxXXXXXX   add when finished ![w3 validator](assets/images/image.png)
 
 ## Github:
 
@@ -73,10 +73,14 @@ Some bug fixes and small fixes still in progress see to-do
 ### To-Do List:
 
 - [ ] accodion header hover colour
-- [ ] Nav bar could be adjusted to have same height as icon
 - [ ] footer alignment is current md-start
-- [ ] card "learn more" alignment in issues
+- [x] card "learn more" alignment in issues
 - [ ] image res on home page
 - [x] contact modal allows any info
+- [ ] w3 validator showing error with using br in modals in issue page
+- [ ] add dark mode
+- [ ] add research page
+- [ ] fix resources page cards
+- [ ] finish read me
 
 ### Final Thoughts/Reflection:
