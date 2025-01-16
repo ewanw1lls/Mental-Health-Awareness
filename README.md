@@ -15,6 +15,8 @@ For my project board, I chose to use the Learning Objectives stipulated in the L
 
 ## Design Choices:
 
+
+
 ### Wireframes:
 
 ### Colour Palette:
@@ -58,9 +60,7 @@ Manual tweaks to test responsiveness were performed in browser deployment. W3's 
  ![w3 validator](assets/images/image.png)
 
  CSS showed no errors.
- ![CSS VALID](assets/images/CSS-valid.png)
- 
-        
+ ![CSS VALID](assets/images/CSS-valid.png)  
 
 ## Github:
 

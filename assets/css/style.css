@@ -33,7 +33,7 @@ body {
 
 /* Accordion Styles */ 
 
-ul li {
+.accordion ul li {
     margin-bottom: 1rem; /* Adjust spacing as needed */
 }
 
