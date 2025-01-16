@@ -3,6 +3,8 @@
 
 ![Responsiveness scr](assets/images/responsivenss.png)
 
+*This image was generated from "https://ui.dev/amiresponsive"*
+
 ## Purpose:
 
 ### Talk about user stories and choice to use the Learning Objectives just as a template and acknowledge the importance of using real stories in a real scenario
