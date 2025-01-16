@@ -82,7 +82,7 @@ Some bug fixes and small fixes still in progress see to-do
 
 ### To-Do List:
 
-- [ ] accodion header hover colour
+- [x] accodion header hover colour
 - [ ] footer alignment is current md-start
 - [x] card "learn more" alignment in issues
 - [ ] image res on home page
@@ -90,7 +90,7 @@ Some bug fixes and small fixes still in progress see to-do
 - [x] w3 validator showing error with using br in modals in issue page
 - [ ] add dark mode
 - [ ] add research page
-- [ ] fix resources page cards
+- [x] fix resources page cards
 - [ ] finish read me
 
 ### Final Thoughts/Reflection:
