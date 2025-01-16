@@ -32,12 +32,16 @@ body {
 }
 
 /* Issues card Styles */
+ 
+.card-body {
+    position: relative;
+    padding-bottom: 50px; /* Adjust the padding to ensure space for the button */
+}
 
- /* will come back to this 
-.card-body .custom-button {
-    display: flex;
-    justify-content: flex-start;
-    
+.card-body > .custom-button {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
 }
 
 /* Footer Styles */

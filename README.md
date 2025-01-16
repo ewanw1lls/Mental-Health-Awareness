@@ -68,9 +68,9 @@ The project was initially built using the Code Institute Full Template. The repo
 
 WIP - Research page still in progress.
 
-Some bug fixes and small fixes still in progress :
+Some bug fixes and small fixes still in progress see to-do
 
-### To-Do List
+### To-Do List:
 
 - [ ] accodion header hover colour
 - [ ] Nav bar could be adjusted to have same height as icon
