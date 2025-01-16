@@ -50,9 +50,17 @@ The favicon was generated using favicon.io.
 
 ## Testing and Validation:
 
-### WC3 Validation (html & CSS)
+Manual tweaks to test responsiveness were performed in browser deployment. W3's validators were also used, as seen below.
 
- XxXXXXXX   add when finished ![w3 validator](assets/images/image.png)
+### WC3 Validation (HTML & CSS):
+
+ After some tweaks, HTML W3 Validator showed no errors and only one warning (as seen in image) which i have deemed as a not an issue. 
+ ![w3 validator](assets/images/image.png)
+
+ CSS showed no errors.
+ ![CSS VALID](assets/images/CSS-valid.png)
+ 
+        
 
 ## Github:
 
@@ -77,7 +85,7 @@ Some bug fixes and small fixes still in progress see to-do
 - [x] card "learn more" alignment in issues
 - [ ] image res on home page
 - [x] contact modal allows any info
-- [ ] w3 validator showing error with using br in modals in issue page
+- [x] w3 validator showing error with using br in modals in issue page
 - [ ] add dark mode
 - [ ] add research page
 - [ ] fix resources page cards
