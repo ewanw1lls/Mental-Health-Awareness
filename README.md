@@ -88,9 +88,12 @@ Some bug fixes and small fixes still in progress see to-do
 - [ ] image res on home page
 - [x] contact modal allows any info
 - [x] w3 validator showing error with using br in modals in issue page
-- [ ] add dark mode (too much effort for rn)
+- [x] add dark mode (too much effort for rn)
 - [ ] add research page
 - [x] fix resources page cards
 - [ ] finish read me
 
 ### Final Thoughts/Reflection:
+
+This project was really useful in understanding everything that we've learnt throughout the first month and a bit of this course.
+I really want to keep working on this and add things like a dark mode but it has to end.
