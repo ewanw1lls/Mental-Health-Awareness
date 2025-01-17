@@ -114,4 +114,4 @@ Some bug fixes and small fixes still in progress see to-do
 ### Final Thoughts/Reflection:
 
 This project was really useful in understanding everything that we've learnt throughout the first month and a bit of this course.
-come to an end at some end at some point.
+Hoever the project has to come to an end.
