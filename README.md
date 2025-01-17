@@ -7,7 +7,7 @@
 
 ## Purpose:
 
-The purpose of this website is to raise awareness about men’s mental health, break the stigma surrounding it, and provide resources, support, and education to men and their loved ones. By addressing key issues such as societal expectations, barriers to seeking help, and common mental health challenges, the site aims to create a safe and supportive space where men feel encouraged to prioritize their mental well-being. It also serves as a platform to share personal stories, practical advice, and reliable resources, empowering visitors to take action and foster a more open conversation about mental health.
+The purpose of this website is to raise awareness about men’s mental health, break the stigma surrounding it, and provide resources, support, and education to men and their loved ones. By addressing key issues such as societal expectations, barriers to seeking help, and common mental health challenges, the site aims to create a safe and supportive space where men feel encouraged to prioritise their mental well-being. It also serves as a platform to share personal stories, practical advice, and reliable resources, empowering visitors to take action and foster a more open conversation about mental health.
 
 ### Talk about user stories and choice to use the Learning Objectives just as a template and acknowledge the importance of using real stories in a real scenario
 
@@ -45,14 +45,14 @@ The color palette for the website was designed to convey professionalism, trust,
 
 Primary Color: #2C3453 (Dark Blue)
 
-This color forms the foundation of the design, symbolizing stability and trust. It was used for primary text and backgrounds to ensure readability and a professional tone.
+This color forms the foundation of the design, symbolising stability and trust. It was used for primary text and backgrounds to ensure readability and a professional tone.
 Secondary Color: #37379D (Blue)
 
 This slightly lighter blue complements the primary color and is used for headings, links, or subtle accents, creating a cohesive design.
-Highlight Color: #652D81 (Purple)
+Highlight Color: #6097F5 (Light Blue)
 
-While not used in the current design, this rich purple was defined as a potential accent for call-to-action buttons or important sections. Purple is often associated with creativity and introspection, making it a fitting choice for mental health themes.
-Highlight Color Light: #6097F5 (Light Blue)
+This rich purple was defined as a potential accent for call-to-action buttons or important sections. Purple is often associated with creativity and introspection, making it a fitting choice for mental health themes.
+Highlight Color Light: #652D81 (Purple)
 
 ### Font:
 
@@ -62,7 +62,7 @@ For the website, two Google Fonts were chosen: Roboto Slab and Roboto Condensed.
 
 The images used on the website were sourced from a mix of stock image websites and Google Images. Stock images were selected for their professional quality and relevance, while additional visuals from Google Images were chosen to capture specific themes and emotions. 
 
-For any future updates, it is recommended to prioritize images from royalty-free or licensed platforms such as Unsplash, Pexels, or Pixabay to avoid potential copyright issues. Including proper attribution for images, where required, ensures compliance with usage rights and ethical standards.
+For any future updates, it is recommended to prioritise images from royalty-free or licensed platforms such as Unsplash, Pexels, or Pixabay to avoid potential copyright issues. Including proper attribution for images, where required, ensures compliance with usage rights and ethical standards.
 
 ### Favicon:
 
@@ -100,16 +100,10 @@ Some bug fixes and small fixes still in progress see to-do
 
 ### To-Do List:
 
-- [x] accodion header hover colour
-- [ ] footer alignment is current md-start
-- [x] card "learn more" alignment in issues
 - [ ] image res on home page
-- [x] contact modal allows any info
-- [x] w3 validator showing error with using br in modals in issue page
-- [x] add dark mode (too much effort for rn)
+- [ ] image resizing on home page carousel
+- [ ] add dark mode (too much effort for rn)
 - [ ] finish research page
-- [x] fix resources page cards
-- [x] finish read me
 
 ### Final Thoughts/Reflection:
 
