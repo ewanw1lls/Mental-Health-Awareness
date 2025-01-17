@@ -13,6 +13,12 @@ The purpose of this website is to raise awareness about men’s mental health, b
 
 For my project board, I chose to use the Learning Objectives stipulated in the LMS to guide my project. Although this approach is not centered around design for a client, it clearly lays out the requirements for this assignment. This method replicated the planning process typically used for user stories without the need to fabricate them. It's important to note that I used the same format you would expect from user stories in order to replicate the planning process.
 
+## AI Reflection:
+
+AI has been used throughout this project, from troubleshooting code with CoPilot to generating content with ChatGPT. 
+CoPilot saw its primary use in recreating code that had a prior example, for example it created more cards with different id's based of a card initally created by me.
+It is important to note that through the use of ChatGPT generating alot of the content of this page that the contetn itself may be wrong in places or at least bias to the AI's code. However, the upside of this generated content is that the workflow of the page was massively sped up, with vastly increased efficiency.
+
 ## Design Choices:
 
 ### Multi Page Structure:
