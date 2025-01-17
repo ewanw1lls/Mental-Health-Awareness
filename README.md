@@ -15,11 +15,29 @@ For my project board, I chose to use the Learning Objectives stipulated in the L
 
 ## Design Choices:
 
-talk about choosing to do multiple page blah blah blah
-soft comforting style yet serious blah blah
-minimalist over exsentiric to offer a serious and clean look
+### Multi Page Structure:
+
+Opting for a multiple-page layout (e.g., Home, About Us, Resources, Issues, Research, and Contact) ensures the content is well-organised and easy to navigate. Each section provides users with dedicated spaces to explore specific topics, offering clarity and accessibility. For a subject as nuanced as mental health, this structure helps users find the resources they need without feeling overwhelmed by too much information on a single page. Altough, in hindsight, one page would've been far eaiser and could've been a cleaner experience.
+
+### Minimalist Design:
+
+A minimalist approach over an eccentric or overly decorative style aligns well with the subject matter:
+
+By avoiding unnecessary distractions, the design ensures that the message and resources take center stage.
+A clean layout with ample white space makes the content digestible, fostering a calm and focused experience for users.
+This simplicity reinforces the site's professional ethos, signaling reliability and trustworthiness to users who may be seeking help.
 
 ### Wireframes:
+
+For my wireframes a choose to make them on Figma. Admittably, i should have spent longer on this aspect of the planning, however i was quite eager to get started.
+Note that only the Home page is wireframed, again a symptom of my eagerness.
+
+## Mobile:
+![Mobile Wireframe](assets/images/mobile-wireframe.png)
+
+## Desktop:
+
+![desktop wireframe](assets/images/Desktop-wireframe.png)
 
 ### Colour Palette:
 
@@ -89,11 +107,11 @@ Some bug fixes and small fixes still in progress see to-do
 - [x] contact modal allows any info
 - [x] w3 validator showing error with using br in modals in issue page
 - [x] add dark mode (too much effort for rn)
-- [ ] add research page
+- [ ] finish research page
 - [x] fix resources page cards
-- [ ] finish read me
+- [x] finish read me
 
 ### Final Thoughts/Reflection:
 
 This project was really useful in understanding everything that we've learnt throughout the first month and a bit of this course.
-I really want to keep working on this and add things like a dark mode but it has to end.
+come to an end at some end at some point.
